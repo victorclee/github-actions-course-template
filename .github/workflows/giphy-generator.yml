@@ -10,7 +10,7 @@ on:
 
 jobs:
   giphy-generator:
-  permissions: write-all
+    permissions: write-all
     runs-on: ubuntu-latest
 
     steps: 
